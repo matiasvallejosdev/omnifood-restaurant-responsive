@@ -1,9 +1,4 @@
 # Omnifood
-
-**Links**
-- [CSS](../../css/css.md)
-- [HTML](../../html/html.md)
-- [Web Design](../../notion/20220517143806_web-process.md)
   
 ## About Omnifood
 
@@ -108,7 +103,7 @@ The AI algorithm is crazy good, it chooses the right meals for me every time. It
 Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
 I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
-### Section with logos of featured publications [see images]
+### Section with logos of featured publications
 
 ### Contact information
 
@@ -118,7 +113,7 @@ Email: hello@omnifood.com
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
 
-### Additional links [links not available yet]
+### Additional links
 
 Create account
 Sign in
